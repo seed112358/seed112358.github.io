@@ -9,7 +9,7 @@ export const themeConfig = {
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "seed112358.github.io",
+    site: "https://seed112358.github.io",
     // 语言
     lang: "zh-CN",
     // 作者
