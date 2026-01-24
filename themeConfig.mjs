@@ -3,27 +3,27 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "九天之上",
+    title: "西陵青",
     // 站点描述
-    description: "基于 vitepress-theme-curve 搭建的 github pages 站点",
+    description: "你好，我是不懂代码的西陵，我把我的个人网站做成一张名片，希望能结识到更多志同道合的伙伴。如果你也觉得用一生来做一件事很酷，请加入我的朋友圈我们一起从零开始！",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog2.811520.xyz",
+    site: "seed112358.github.io",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
-      name: "雨天狂奔",
+      name: "西陵青",
       cover: "/images/logo/logo.webp",
-      email: "admin@24811213.xyz",
-      link: "https://daoyi.hidns.vip/#/",
+      email: "seed112358@Outlook.com",
+      link: "https://github.com/seed112358",
     },
   },
   // 备案信息
   icp: "鄂ICP备202411-001号",
   // 建站日期
-  since: "2024-11-1",
+  since: "2026-01-24",
   // 每页文章数据
   postSize: 8,
   // inject
