@@ -5,7 +5,7 @@ export const themeConfig = {
     // 站点标题
     title: "The lost world",
     // 站点描述
-    description: "Hello",
+    description: "我是西陵青，欢迎来到我的博客！",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
@@ -21,7 +21,7 @@ export const themeConfig = {
     },
   },
   // 备案信息
-  icp: "鄂ICP备202411-001号",
+  icp: "暂无备案",
   // 建站日期
   since: "2026-01-24",
   // 每页文章数据
