@@ -3,9 +3,9 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "西陵青",
+    title: "The lost world",
     // 站点描述
-    description: "你好，我是不懂代码的西陵，我把我的个人网站做成一张名片，希望能结识到更多志同道合的伙伴。如果你也觉得用一生来做一件事很酷，请加入我的朋友圈我们一起从零开始！",
+    description: "Hello",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
@@ -359,7 +359,7 @@ export const themeConfig = {
     // 站点简介
     hello: {
       enable: true,
-      text: "这里有我的各种<strong>折腾笔记</strong>，也有一些<strong>工作备忘</strong>和<strong>生活随笔</strong>。又菜又爱玩，<strong>万事都不难</strong>。",
+      text: "你好，我是不懂代码的西陵，我把我的个人网站做成一张名片，希望能结识到更多志同道合的伙伴。如果你也觉得用一生来做一件事很酷，请加入我的朋友圈我们一起从零开始！",
     },
     // 目录
     toc: {
