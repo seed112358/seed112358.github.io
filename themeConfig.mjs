@@ -257,11 +257,11 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:admin@24811213.xyz",
+        link: "mailto:seed112358@outlook.com",
       },
       {
         icon: "github",
-        link: "https://github.com/yutian81/",
+        link: "https://github.com/seed112358/",
       },
       {
         icon: "telegram",
@@ -269,7 +269,7 @@ export const themeConfig = {
       },
       {
         icon: "bilibili",
-        link: "https://space.bilibili.com/677845115",
+        link: "https://space.bilibili.com/3546554512181810",
       },
     ],
     // sitemap
@@ -375,7 +375,7 @@ export const themeConfig = {
       // 倒计时日期
       data: {
         name: "春节",
-        date: "2025-05-01",
+        date: "2030-02-02",
       },
     },
     // 站点数据
