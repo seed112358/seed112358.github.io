@@ -50,8 +50,8 @@ export const mainStore = defineStore("main", {
       // 上次滚动位置
       lastScrollY: 0,
       // 站点背景
-      backgroundType: "patterns",
-      backgroundUrl: "https://tuapi.eees.cc/api.php?category={dongman,fengjing}&type=302",
+      backgroundType: "image",
+      backgroundUrl: "https://s21.ax1x.com/2024/12/30/pAz9egS.webp",
     };
   },
   getters: {},
@@ -82,14 +82,15 @@ export const mainStore = defineStore("main", {
       htmlElement.style.fontSize = this.fontSize + "px";
     },
     // 切换明暗模式
-    changeThemeType() {
+	changeThemeType() {
       // 禁止壁纸模式切换
-      if (this.backgroundType === "image") {
+    /*
+	  if (this.backgroundType === "image") {
         $message.warning("无法在壁纸模式下切换明暗模式", {
           duration: 1500,
         });
         return false;
-      }
+      }*/
       this.themeType === "auto"
         ? (this.themeType = "dark")
         : this.themeType === "dark"
